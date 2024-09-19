@@ -4,7 +4,7 @@ This is a Python program that solves Sudoku puzzles of various sizes (e.g., 4×4
 
 ## Features
 
-- Solves standard Sudoku puzzles where the grid size is \( n \times n \), with \( n \) being a perfect square (e.g., 4, 9, 16).
+- Solves standard Sudoku puzzles where the grid size is n x n,  with n being a perfect square (e.g., 4, 9, 16).
 - Supports Sudoku X puzzles with diagonal constraints.
 - Handles puzzles with numbers and letters for larger grids (greater than 9×9).
 - Validates puzzle inputs for correctness before attempting to solve.
