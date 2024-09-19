@@ -38,15 +38,13 @@ The program expects an input file (`input_sudokus.txt` by default) containing Su
     - **Empty Line**: A blank line separates different puzzles.
 
 #### Example Input File
+```plaintext
 1
 4 0
 0 0 0 0
 1 2 3 4
 0 0 0 0
 1 2 3 4
-
-
-
 
 ### Running the Program
 
