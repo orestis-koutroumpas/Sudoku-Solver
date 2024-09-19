@@ -38,7 +38,7 @@ The program expects an input file (`input_sudokus.txt` by default) containing Su
     - **Empty Line**: A blank line separates different puzzles.
 
 #### Example Input File
-1
+1\n
 9 0
 0 0 0 2 4 0 0 0 1
 0 0 0 0 0 0 0 6 0
@@ -60,4 +60,7 @@ The program expects an input file (`input_sudokus.txt` by default) containing Su
 
 ```bash
 python sudoku_solver.py
+```
+## Output
 
+The solutions will be written to an output file (output_solutions.txt by default). If no solution is found for a puzzle, a message will indicate that.
