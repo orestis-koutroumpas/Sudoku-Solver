@@ -1,6 +1,6 @@
 # Sudoku Solver using Linear Programming (Python and PuLP)
 
-This is a Python program that solves Sudoku puzzles of various sizes (e.g., 4×4, 9×9, 16×16) using linear programming techniques via the PuLP library. The solver can handle standard Sudoku puzzles as well as the Sudoku X variant (which includes diagonal constraints).
+This is a Python program that solves Sudoku puzzles of various sizes (e.g. 9×9, 16×16, etc) using linear programming techniques via the PuLP library. The solver can handle standard Sudoku puzzles as well as the Sudoku X variant (which includes diagonal constraints).
 
 ## Features
 
